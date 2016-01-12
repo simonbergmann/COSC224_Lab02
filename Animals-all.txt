@@ -3,4 +3,10 @@ Flog_Mikiko
 Parret_Mikiko
 Catfish_Mikiko
 
+Horse
+Dog
+Snake_Hans
+
+
+
 
